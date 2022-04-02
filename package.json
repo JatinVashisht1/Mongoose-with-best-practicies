@@ -1,0 +1,19 @@
+{
+  "name": "mongodbCD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "modules": "^0.4.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
