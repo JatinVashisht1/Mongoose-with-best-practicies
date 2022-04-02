@@ -9,7 +9,7 @@
 ## Some points about mongodb
 - if you try to access a collectin that doesnot exists then mongodb will create one for you automatically
 - MongoDB and our node app both are processes running 
-- To make `**Node**` app and `**MongoDB**` communicate we have `**Sockets**` (it will be a TCP socket)
+- To make `Node` app and `MongoDB` communicate we have `Sockets` (it will be a TCP socket)
 - in case of sockets you don't have to locate that on same machines
     - you can run mongodb on a cloud 
     - and node on localhost and you can still connect to the mongodb instance
